@@ -1,5 +1,48 @@
 <h2 align="left">Hi 👋! My name is  Akshay Aneesh</h2>
 
+
+🎓 B.Tech Student | 🧑‍💻 Python Django Developer | 🌐 Tech Enthusiast  
+
+---
+
+### 🚀 About Me
+
+- 🔭 I’m currently working on **Alumni Hub**, a platform to connect alumni and students with features like job listings, chat, and connection requests.
+- 🌱 I’m currently learning **Advanced Django**, **AJAX**, and **modern front-end integration** with Tailwind CSS.
+- 💡 I enjoy building full-stack web applications and exploring backend logic.
+- 🛠️ Tools I work with:  
+  `Python` | `Django` | `HTML` | `CSS` | `Tailwind CSS` | `JavaScript` | `AJAX` | `SQLite` | `Git`  
+
+---
+
+### 💼 Projects
+
+- 🔗 **[Alumni Hub](#)**: Connects students with alumni. Features include user profiles, chat, job posting, connection requests, and admin dashboard.
+- 🛒 **E-Commerce Platform**: Basic shopping app with login/signup and cart management.
+- ☀️ **Weather App**: Shows current weather using external APIs.
+- 🔐 **Login & Signup System**: Authentication system with form validations.
+
+---
+
+### 📫 Connect With Me
+
+- 💬 Ask me about Django, building web apps, or integrating backend with frontend!
+- 📧 Email: akshaysonu916@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio-link.com)
+
+---
+
+### 📊 GitHub Stats
+
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshaysonu916&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaysonu916&layout=compact&theme=radical)
+
+---
+
+### ⚡ Fun Fact
+I love solving logic problems and improving user experience with smart backend solutions!
+
+
 ###
 
 <div align="left">
