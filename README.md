@@ -28,7 +28,7 @@
 
 - 💬 Ask me about Django, building web apps, or integrating backend with frontend!
 - 📧 Email: akshaysonu916@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio-link.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/akshay-aneesh-781a80255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | [Portfolio](#)
 
 ---
 
