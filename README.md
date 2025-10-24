@@ -4,6 +4,9 @@
 🎓 B.Tech Student | 🧑‍💻 Python Django Developer | 🌐 Tech Enthusiast  
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Akshaysonu916&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### 🚀 About Me
 
@@ -67,6 +70,11 @@ I love solving logic problems and improving user experience with smart backend s
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
 </div>
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Akshaysonu916&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ###
 
